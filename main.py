@@ -471,3 +471,5 @@ if __name__ == '__main__':
     train(run_name, 0, 20, 128)
     # increase to wider images and start at epoch 20. The learned weights are reloaded
     train(run_name, 20, 25, 512)
+
+    print 'this is test code to valid branch'
