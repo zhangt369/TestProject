@@ -474,3 +474,6 @@ if __name__ == '__main__':
 
     print 'this is test code to valid branch'
     print "20191016"
+
+    for i in range(5):
+        print(2020)
